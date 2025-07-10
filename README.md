@@ -30,3 +30,12 @@
 | 30 OOPs Interview Questions and Answers   | [Visit](https://www.geeksforgeeks.org/interview-prep/oops-interview-questions/)  |
 | Python OOPS Interview question | [Visit](https://www.geeksforgeeks.org/python/python-oops-interview-question/) |
 | 52 Important OOP Interview Questions in 2025| [Visit](https://github.com/Devinterview-io/oop-interview-questions) |
+
+
+
+## System Design 
+| **System Design Resource List**| **Link**                          |
+|------------------------|-----------------------------------|
+| System Design Interview Questions and Answers   | [Visit](https://www.geeksforgeeks.org/system-design/top-10-system-design-interview-questions-and-answers/)  |
+| System Design Github | [Visit](https://github.com/checkcheckzz/system-design-interview) |
+| সিস্টেম ডিজাইন বাংলা| [Visit](https://github.com/lahin31/system-design-bangla) |
