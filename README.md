@@ -15,3 +15,10 @@
 | Networking Interview Questions  | [Visit](https://www.shiksha.com/online-courses/articles/networking-interview-questions-answers/) |
 | Networking Interview Questions| [Visit](https://www.interviewbit.com/networking-interview-questions/) |
 
+## Object Oriented Programming 
+| **OOP Preparation Resource List**      | **Link**                          |
+|------------------------|-----------------------------------|
+| 30 OOPs Interview Questions and Answers   | [Visit](https://www.geeksforgeeks.org/interview-prep/oops-interview-questions/)  |
+| Python OOPS Interview question | [Visit](https://www.geeksforgeeks.org/python/python-oops-interview-question/) |
+| 52 Important OOP Interview Questions in 2025| [Visit](https://github.com/Devinterview-io/oop-interview-questions) |
+
