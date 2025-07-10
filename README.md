@@ -6,7 +6,7 @@ A curated list of high-quality resources for acing computer science interviews. 
 
 ---
 
-## 📌 Fundamentals of Programming
+# 📌 Fundamentals of Programming
 
 ### 🔢 Data Structures and Algorithms (DSA)
 
@@ -59,16 +59,19 @@ A curated list of high-quality resources for acing computer science interviews. 
 
 ---
 
-## 💻 Software Development Frameworks
+# 💻 Software Development Frameworks
 
 > 📌 Coming soon: Resources for Django, Spring Boot, React, Angular, .NET, and more.
 
 ---
 
-## 📚 Programming Books
+# 📚 Programming Books
 
-> 📌 Coming soon: Recommended books for algorithms, clean code, design patterns, operating systems, and competitive programming.
+## 🏗️ CSE Important Books
 
+| **Resource Name**                                  | **Link**                                                                                   |
+|----------------------------------------------------|--------------------------------------------------------------------------------------------|
+| Django For Beginners           | [Download 🔗](https://github.com/RlM100always/CSE-Interview-Preparation/blob/main/Book/Django-for-beginners.pdf) |
 ---
 
 _Contributions welcome! Feel free to submit a PR to expand the list._
