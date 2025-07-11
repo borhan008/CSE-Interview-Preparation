@@ -16,6 +16,8 @@ A curated list of high-quality resources for acing computer science interviews. 
 | Python Algorithms and Data Structures (GitHub)     | [Visit 🔗](https://github.com/david-legend/python-algorithms)                              |
 | Python Interview Questions – InterviewBit          | [Visit 🔗](https://www.interviewbit.com/python-interview-questions/)                       |
 | Python Interview Questions – W3Schools             | [Visit 🔗](https://www.w3schools.com/python/python_interview_questions.asp)                |
+| বাংলায় DSA রিসোর্সসমূহ            | [Visit 🔗](https://github.com/me-shaon/bangla-programming-resources)                |
+
 
 ---
 
