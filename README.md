@@ -60,8 +60,16 @@ A curated list of high-quality resources for acing computer science interviews. 
 ---
 
 # 💻 Software Development Frameworks
+## 🏗️ Python Django Framework
 
-> 📌 Coming soon: Resources for Django, Spring Boot, React, Angular, .NET, and more.
+| **Resource Name**                                  | **Link**                                                                                   |
+|----------------------------------------------------|--------------------------------------------------------------------------------------------|
+| Top 50 Django Interview Questions and Answers- GeeksforGeeks          | [Visit 🔗](https://www.geeksforgeeks.org/python/django-interview-questions/) |
+| Django Interview Question – GitHub          | [Visit 🔗](https://github.com/Devinterview-io/django-interview-questions)                        |
+| Django Interview Question – MindMajix                      | [Visit 🔗](https://mindmajix.com/django-interview-questions)  |
+| Django Advance for Project Learning - GitHub                   | [Visit 🔗](https://github.com/wsvincent/awesome-django?tab=readme-ov-file#apis)  |
+
+
 
 ---
 
