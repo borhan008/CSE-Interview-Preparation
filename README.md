@@ -1,4 +1,4 @@
-# 📘 CSE Interview Preparation Guide
+# 📘 CSE Interview Preparation Resource List 
 
 A curated list of high-quality resources for acing computer science interviews. Topics include Data Structures & Algorithms, Databases, Networking, OOP, System Design, and more.
 
