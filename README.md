@@ -59,6 +59,7 @@ A curated list of high-quality resources for acing computer science interviews. 
 
 | **Resource Name**                                  | **Link**                                                                                   |
 |----------------------------------------------------|--------------------------------------------------------------------------------------------|
+| System Design Roadmap                      | [Visit 🔗](https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes)                                |
 | Top 10 System Design Q&A – GeeksforGeeks           | [Visit 🔗](https://www.geeksforgeeks.org/system-design/top-10-system-design-interview-questions-and-answers/) |
 | System Design Interview Handbook – GitHub          | [Visit 🔗](https://github.com/checkcheckzz/system-design-interview)                        |
 | সিস্টেম ডিজাইন বাংলা – GitHub                      | [Visit 🔗](https://github.com/lahin31/system-design-bangla)                                |
