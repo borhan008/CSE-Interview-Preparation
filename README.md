@@ -59,6 +59,7 @@ A curated list of high-quality resources for acing computer science interviews. 
 
 | **Resource Name**                                  | **Link**                                                                                   |
 |----------------------------------------------------|--------------------------------------------------------------------------------------------|
+| System Design and Application Architecture Bangla                    | [Visit 🔗](https://youtube.com/playlist?list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&si=RvIEOxZNgyTJbXfJ)                  |
 | System Design Roadmap                      | [Visit 🔗](https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes)                                |
 | Top 10 System Design Q&A – GeeksforGeeks           | [Visit 🔗](https://www.geeksforgeeks.org/system-design/top-10-system-design-interview-questions-and-answers/) |
 | System Design Interview Handbook – GitHub          | [Visit 🔗](https://github.com/checkcheckzz/system-design-interview)                        |
