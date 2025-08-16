@@ -17,6 +17,10 @@ A curated list of high-quality resources for acing computer science interviews. 
 | Python Interview Questions – InterviewBit          | [Visit 🔗](https://www.interviewbit.com/python-interview-questions/)                       |
 | Python Interview Questions – W3Schools             | [Visit 🔗](https://www.w3schools.com/python/python_interview_questions.asp)                |
 | বাংলায় DSA রিসোর্সসমূহ            | [Visit 🔗](https://github.com/me-shaon/bangla-programming-resources)                |
+| TakeuForward (Best DSA Learning Playlist)          | [Visit 🔗](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)                |
+| NeetCodeIo (Important DSA Problem List)          | [Visit 🔗](https://neetcode.io/practice)                |
+
+
 
 
 ---
