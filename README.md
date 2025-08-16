@@ -70,6 +70,8 @@ A curated list of high-quality resources for acing computer science interviews. 
 | Top 10 System Design Q&A – GeeksforGeeks           | [Visit 🔗](https://www.geeksforgeeks.org/system-design/top-10-system-design-interview-questions-and-answers/) |
 | System Design Interview Handbook – GitHub          | [Visit 🔗](https://github.com/checkcheckzz/system-design-interview)                        |
 | সিস্টেম ডিজাইন বাংলা – GitHub                      | [Visit 🔗](https://github.com/lahin31/system-design-bangla)                                |
+| The System Design Primer – GitHub Top                      | [Visit 🔗](https://github.com/donnemartin/system-design-primer)                                |
+
 
 ---
 
