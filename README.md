@@ -53,6 +53,8 @@ A curated list of high-quality resources for acing computer science interviews. 
 
 | **Resource Name**                                  | **Link**                                                                                   |
 |----------------------------------------------------|--------------------------------------------------------------------------------------------|
+| Best OOP Playlist-Java       | [Visit 🔗](https://youtube.com/playlist?list=PLsyeobzWxl7oa1WO9n4cP3OY9nOtUcZIg&si=UKpUsG9U7EVRJuCN)         |
+| Python OOP Playlist       | [Visit 🔗](https://youtube.com/playlist?list=PLI4OVrCFuY56E57FdYzFNSWcEDS-ZKK26&si=W9k-MgMhj9Qkg0Xq)         |
 | 30 OOP Interview Questions – GeeksforGeeks         | [Visit 🔗](https://www.geeksforgeeks.org/interview-prep/oops-interview-questions/)         |
 | Python OOP Interview Questions – GeeksforGeeks     | [Visit 🔗](https://www.geeksforgeeks.org/python/python-oops-interview-question/)           |
 | OOP Interview Questions (2025) – DevInterview GitHub | [Visit 🔗](https://github.com/Devinterview-io/oop-interview-questions)                    |
