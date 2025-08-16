@@ -94,6 +94,12 @@ A curated list of high-quality resources for acing computer science interviews. 
 | **Resource Name**                                  | **Link**                                                                                   |
 |----------------------------------------------------|--------------------------------------------------------------------------------------------|
 | Django For Beginners           | [Download 🔗](https://github.com/RlM100always/CSE-Interview-Preparation/blob/main/Book/Django-for-beginners.pdf) |
+| AI Prompt Engineering           | [Download 🔗](https://github.com/RlM100always/CSE-Interview-Preparation/blob/main/Book/AI_PRIMPT_ENGINEERING.pdf) |
+| SQL Cheet Sheet          | [Download 🔗](https://github.com/RlM100always/CSE-Interview-Preparation/blob/main/Book/Complete%20SQL%20Tutorial%20In%20Hindi%20By%20Rishabh%20Mishra%20(Basic%20to%20Advance).pdf) |
+| Git Question and Answer           | [Download 🔗](https://github.com/RlM100always/CSE-Interview-Preparation/blob/main/Book/Git%20Q%26A.pdf) |
+| Python Question answer Book          | [Download 🔗](https://github.com/RlM100always/CSE-Interview-Preparation/blob/main/Book/Pythonquestion.pdf) |
+
+
 ---
 
 _Contributions welcome! Feel free to submit a PR to expand the list._
