@@ -29,6 +29,7 @@ A curated list of high-quality resources for acing computer science interviews. 
 
 | **Resource Name**                                  | **Link**                                                                                   |
 |----------------------------------------------------|--------------------------------------------------------------------------------------------|
+| SQL Full Course In 10 Hours           | [Visit 🔗](https://youtube.com/playlist?list=PL9ooVrP1hQOG6DQnOD6ujdCEchaqADfCU&si=cvtispco6juD7mkg)               |
 | Database Questions – DevInterview GitHub           | [Visit 🔗](https://github.com/Devinterview-io/databases-interview-questions)               |
 | Top 60 DBMS Interview Questions – GeeksforGeeks    | [Visit 🔗](https://www.geeksforgeeks.org/dbms/commonly-asked-dbms-interview-questions/)    |
 | SQL Interview Questions – GeeksforGeeks            | [Visit 🔗](https://www.geeksforgeeks.org/sql/sql-interview-questions/)                     |
