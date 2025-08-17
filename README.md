@@ -10,15 +10,15 @@ A curated list of high-quality resources for acing computer science interviews. 
 
 ### 🔢 Data Structures and Algorithms (DSA)
 
-| **Resource Name**                                  | **Link**                                                                                   |
-|----------------------------------------------------|--------------------------------------------------------------------------------------------|
-| Top 100 DSA Interview Questions (Topic-wise)       | [Visit 🔗](https://www.geeksforgeeks.org/dsa/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/) |
-| Python Algorithms and Data Structures (GitHub)     | [Visit 🔗](https://github.com/david-legend/python-algorithms)                              |
-| Python Interview Questions – InterviewBit          | [Visit 🔗](https://www.interviewbit.com/python-interview-questions/)                       |
-| Python Interview Questions – W3Schools             | [Visit 🔗](https://www.w3schools.com/python/python_interview_questions.asp)                |
-| বাংলায় DSA রিসোর্সসমূহ            | [Visit 🔗](https://github.com/me-shaon/bangla-programming-resources)                |
-| TakeuForward (Best DSA Learning Playlist)          | [Visit 🔗](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)                |
-| NeetCodeIo (Important DSA Problem List)          | [Visit 🔗](https://neetcode.io/practice)                |
+| **Resource Name**                                  | **Link**                                                                                   |     **Type**           |
+|----------------------------------------------------|--------------------------------------------------------------------------------------------|-------------------------|
+| Top 100 DSA Interview Questions (Topic-wise)       | [Visit 🔗](https://www.geeksforgeeks.org/dsa/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/) | Question & Answer  |
+| Python Algorithms and Data Structures (GitHub)     | [Visit 🔗](https://github.com/david-legend/python-algorithms)                              |Theoretical |
+| Python Interview Questions – InterviewBit          | [Visit 🔗](https://www.interviewbit.com/python-interview-questions/)                       |  Question & Answer    |
+| Python Interview Questions – W3Schools             | [Visit 🔗](https://www.w3schools.com/python/python_interview_questions.asp)                |  Question & Answer  |
+|বাংলায় DSA রিসোর্সসমূহ  **(★ ★ ★ ★ ★)**             | [Visit 🔗](https://github.com/me-shaon/bangla-programming-resources)                |Theoretical |
+| TakeuForward (Best DSA Learning Playlist)  **(★ ★ ★ ★ ★)**         | [Visit 🔗](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/) | Video & Problem List |
+| NeetCodeIo (Important DSA Problem List)   **(★ ★ ★ ★ ★)**         | [Visit 🔗](https://neetcode.io/practice)                |   Problem List |
 
 
 
