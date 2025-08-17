@@ -78,12 +78,12 @@ A curated list of high-quality resources for acing computer science interviews. 
 # 💻 Software Development Frameworks
 ## 🏗️ Python Django Framework
 
-| **Resource Name**                                  | **Link**                                                                                   |  
-|----------------------------------------------------|--------------------------------------------------------------------------------------------|
-| Top 50 Django Interview Questions and Answers- GeeksforGeeks   **(★ ★ ★ ★ ★)**         | [Visit 🔗](https://www.geeksforgeeks.org/python/django-interview-questions/) |
-| Django Interview Question – GitHub   **(★ ★ ★ ★ ★)**         | [Visit 🔗](https://github.com/Devinterview-io/django-interview-questions)                        |
-| Django Interview Question – MindMajix                      | [Visit 🔗](https://mindmajix.com/django-interview-questions)  |
-| Django Advance for Project Learning - GitHub                   | [Visit 🔗](https://github.com/wsvincent/awesome-django?tab=readme-ov-file#apis)  |
+| **Resource Name**                                  | **Link**                                                                                   |    **Type**           |
+|----------------------------------------------------|--------------------------------------------------------------------------------------------|-------------------------|
+| Top 50 Django Interview Questions and Answers- GeeksforGeeks   **(★ ★ ★ ★ ★)**         | [Visit 🔗](https://www.geeksforgeeks.org/python/django-interview-questions/) |Question & Answer|
+| Django Interview Question – GitHub   **(★ ★ ★ ★ ★)**         | [Visit 🔗](https://github.com/Devinterview-io/django-interview-questions)                        |Theoretical |
+| Django Interview Question – MindMajix                      | [Visit 🔗](https://mindmajix.com/django-interview-questions)  |Question & Answer|
+| Django Advance for Project Learning - GitHub                   | [Visit 🔗](https://github.com/wsvincent/awesome-django?tab=readme-ov-file#apis)  |Theoretical |
 
 
 
