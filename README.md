@@ -1,4 +1,4 @@
-# 📘 CSE Interview Preparation Resource List 
+# 📘 CSE Interview Preparation Resource List
 
 A curated list of high-quality resources for acing computer science interviews. Topics include Data Structures & Algorithms, Databases, Networking, OOP, System Design, and more.
 
@@ -9,6 +9,7 @@ A curated list of high-quality resources for acing computer science interviews. 
 # 📌 Fundamentals of Programming
 
 ### 🔢 Data Structures and Algorithms (DSA)
+
 
 | **Resource Name**                                  | **Link**                                                                                   |     **Type**           |
 |----------------------------------------------------|--------------------------------------------------------------------------------------------|-------------------------|
@@ -23,9 +24,9 @@ A curated list of high-quality resources for acing computer science interviews. 
 
 
 
----
 
 ## 🗃️ Database
+
 
 | **Resource Name**                                  | **Link**                                                                                   |     **Type**           |
 |----------------------------------------------------|--------------------------------------------------------------------------------------------|-------------------------|
@@ -41,6 +42,7 @@ A curated list of high-quality resources for acing computer science interviews. 
 
 ## 🌐 Networking
 
+
 | **Resource Name**                                  | **Link**                                                                                   |    **Type**           |
 |----------------------------------------------------|--------------------------------------------------------------------------------------------|-------------------------|
 | 50+ Networking Interview Questions – GeeksforGeeks  **(★ ★ ★ ★ ★)**  | [Visit 🔗](https://www.geeksforgeeks.org/blogs/networking-interview-questions/) |Question & Answer |
@@ -51,6 +53,7 @@ A curated list of high-quality resources for acing computer science interviews. 
 
 ## 🧱 Object-Oriented Programming (OOP)
 
+
 | **Resource Name**                                  | **Link**                                                                                   |    **Type**           |
 |----------------------------------------------------|--------------------------------------------------------------------------------------------|-------------------------|
 | Best OOP Playlist-Java   **(★ ★ ★ ★ ★)**      | [Visit 🔗](https://youtube.com/playlist?list=PLsyeobzWxl7oa1WO9n4cP3OY9nOtUcZIg&si=UKpUsG9U7EVRJuCN)|Video Lecture |
@@ -59,9 +62,11 @@ A curated list of high-quality resources for acing computer science interviews. 
 | Python OOP Interview Questions – GeeksforGeeks     | [Visit 🔗](https://www.geeksforgeeks.org/python/python-oops-interview-question/)           |Question & Answer |
 | OOP Interview Questions (2025) – DevInterview GitHub | [Visit 🔗](https://github.com/Devinterview-io/oop-interview-questions)                    |Question & Answer |
 
+
 ---
 
 ## 🏗️ System Design
+
 
 | **Resource Name**                                  | **Link**                                                                                   |   **Type**           |
 |----------------------------------------------------|--------------------------------------------------------------------------------------------|-------------------------|
@@ -72,10 +77,19 @@ A curated list of high-quality resources for acing computer science interviews. 
 | সিস্টেম ডিজাইন বাংলা – GitHub      **(★ ★ ★ ★ ★)**                  | [Visit 🔗](https://github.com/lahin31/system-design-bangla)  |Theoretical |
 | The System Design Primer – GitHub Top  **(★ ★ ★ ★ ★)**                      | [Visit 🔗](https://github.com/donnemartin/system-design-primer) |Theoretical |
 
+## 🟨 JavaScript
+
+| **Resource Name**                                        | **Link**                                                                     |
+| -------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| JavaScript from Beginner to Professional - PDF           | [Download 🔗](/Book/JavaScript/javascript-from-beginner-to-professional.pdf) |
+| 1000 JavaScript Interview Questions and Answer – GitHub  | [Link 🔗](https://github.com/sudheerj/javascript-interview-questions)        |
+| JavaScript Interview Questions and Answer - PDF          | [Download 🔗](/Book/JavaScript/jaavascript-interview-1.pdf)                  |
+| JavaScript Interview Questions and Answer – InterviewBit | [Link 🔗](https://www.interviewbit.com/javascript-interview-questions/)      |
 
 ---
 
 # 💻 Software Development Frameworks
+
 ## 🏗️ Python Django Framework
 
 | **Resource Name**                                  | **Link**                                                                                   |    **Type**           |
@@ -86,12 +100,10 @@ A curated list of high-quality resources for acing computer science interviews. 
 | Django Advance for Project Learning - GitHub                   | [Visit 🔗](https://github.com/wsvincent/awesome-django?tab=readme-ov-file#apis)  |Theoretical |
 
 
-
----
-
 # 📚 Programming Notes and Books
 
 ## 🏗️ CSE Important Notes and Books
+
 
 | **Resource Name**                                  | **Link**                                                                                   |
 |----------------------------------------------------|--------------------------------------------------------------------------------------------|
@@ -105,4 +117,3 @@ A curated list of high-quality resources for acing computer science interviews. 
 ---
 
 _Contributions welcome! Feel free to submit a PR to expand the list._
-
