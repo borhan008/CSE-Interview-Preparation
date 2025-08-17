@@ -77,14 +77,6 @@ A curated list of high-quality resources for acing computer science interviews. 
 | সিস্টেম ডিজাইন বাংলা – GitHub      **(★ ★ ★ ★ ★)**                  | [Visit 🔗](https://github.com/lahin31/system-design-bangla)  |Theoretical |
 | The System Design Primer – GitHub Top  **(★ ★ ★ ★ ★)**                      | [Visit 🔗](https://github.com/donnemartin/system-design-primer) |Theoretical |
 
-## 🟨 JavaScript
-
-| **Resource Name**                                        | **Link**                                                                     |
-| -------------------------------------------------------- | ---------------------------------------------------------------------------- |
-| JavaScript from Beginner to Professional - PDF           | [Download 🔗](/Book/JavaScript/javascript-from-beginner-to-professional.pdf) |
-| 1000 JavaScript Interview Questions and Answer – GitHub  | [Link 🔗](https://github.com/sudheerj/javascript-interview-questions)        |
-| JavaScript Interview Questions and Answer - PDF          | [Download 🔗](/Book/JavaScript/jaavascript-interview-1.pdf)                  |
-| JavaScript Interview Questions and Answer – InterviewBit | [Link 🔗](https://www.interviewbit.com/javascript-interview-questions/)      |
 
 ---
 
@@ -98,6 +90,16 @@ A curated list of high-quality resources for acing computer science interviews. 
 | Django Interview Question – GitHub   **(★ ★ ★ ★ ★)**         | [Visit 🔗](https://github.com/Devinterview-io/django-interview-questions)                        |Theoretical |
 | Django Interview Question – MindMajix                      | [Visit 🔗](https://mindmajix.com/django-interview-questions)  |Question & Answer|
 | Django Advance for Project Learning - GitHub                   | [Visit 🔗](https://github.com/wsvincent/awesome-django?tab=readme-ov-file#apis)  |Theoretical |
+
+
+## 🟨 JavaScript
+
+| **Resource Name**                                        | **Link**                                                                     |
+| -------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| JavaScript from Beginner to Professional - PDF           | [Download 🔗](/Book/JavaScript/javascript-from-beginner-to-professional.pdf) |
+| 1000 JavaScript Interview Questions and Answer – GitHub  | [Link 🔗](https://github.com/sudheerj/javascript-interview-questions)        |
+| JavaScript Interview Questions and Answer - PDF          | [Download 🔗](/Book/JavaScript/jaavascript-interview-1.pdf)                  |
+| JavaScript Interview Questions and Answer – InterviewBit | [Link 🔗](https://www.interviewbit.com/javascript-interview-questions/)      |
 
 
 # 📚 Programming Notes and Books
