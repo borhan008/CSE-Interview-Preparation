@@ -41,36 +41,36 @@ A curated list of high-quality resources for acing computer science interviews. 
 
 ## 🌐 Networking
 
-| **Resource Name**                                  | **Link**                                                                                   |
-|----------------------------------------------------|--------------------------------------------------------------------------------------------|
-| 50+ Networking Interview Questions – GeeksforGeeks  **(★ ★ ★ ★ ★)**  | [Visit 🔗](https://www.geeksforgeeks.org/blogs/networking-interview-questions/)            |
-| Networking Interview Q&A – Shiksha                 | [Visit 🔗](https://www.shiksha.com/online-courses/articles/networking-interview-questions-answers/) |
-| Networking Questions – InterviewBit                | [Visit 🔗](https://www.interviewbit.com/networking-interview-questions/)                   |
+| **Resource Name**                                  | **Link**                                                                                   |    **Type**           |
+|----------------------------------------------------|--------------------------------------------------------------------------------------------|-------------------------|
+| 50+ Networking Interview Questions – GeeksforGeeks  **(★ ★ ★ ★ ★)**  | [Visit 🔗](https://www.geeksforgeeks.org/blogs/networking-interview-questions/) |Question & Answer |
+| Networking Interview Q&A – Shiksha                 | [Visit 🔗](https://www.shiksha.com/online-courses/articles/networking-interview-questions-answers/) |Question & Answer |
+| Networking Questions – InterviewBit                | [Visit 🔗](https://www.interviewbit.com/networking-interview-questions/)                   |Question & Answer |
 
 ---
 
 ## 🧱 Object-Oriented Programming (OOP)
 
-| **Resource Name**                                  | **Link**                                                                                   |
-|----------------------------------------------------|--------------------------------------------------------------------------------------------|
-| Best OOP Playlist-Java   **(★ ★ ★ ★ ★)**      | [Visit 🔗](https://youtube.com/playlist?list=PLsyeobzWxl7oa1WO9n4cP3OY9nOtUcZIg&si=UKpUsG9U7EVRJuCN)         |
-| Python OOP Playlist       | [Visit 🔗](https://youtube.com/playlist?list=PLI4OVrCFuY56E57FdYzFNSWcEDS-ZKK26&si=W9k-MgMhj9Qkg0Xq)         |
-| 30 OOP Interview Questions – GeeksforGeeks   **(★ ★ ★ ★ ★)**        | [Visit 🔗](https://www.geeksforgeeks.org/interview-prep/oops-interview-questions/)         |
-| Python OOP Interview Questions – GeeksforGeeks     | [Visit 🔗](https://www.geeksforgeeks.org/python/python-oops-interview-question/)           |
-| OOP Interview Questions (2025) – DevInterview GitHub | [Visit 🔗](https://github.com/Devinterview-io/oop-interview-questions)                    |
+| **Resource Name**                                  | **Link**                                                                                   |    **Type**           |
+|----------------------------------------------------|--------------------------------------------------------------------------------------------|-------------------------|
+| Best OOP Playlist-Java   **(★ ★ ★ ★ ★)**      | [Visit 🔗](https://youtube.com/playlist?list=PLsyeobzWxl7oa1WO9n4cP3OY9nOtUcZIg&si=UKpUsG9U7EVRJuCN)|Video Lecture |
+| Python OOP Playlist       | [Visit 🔗](https://youtube.com/playlist?list=PLI4OVrCFuY56E57FdYzFNSWcEDS-ZKK26&si=W9k-MgMhj9Qkg0Xq)         | Video Lecture |
+| 30 OOP Interview Questions – GeeksforGeeks   **(★ ★ ★ ★ ★)**        | [Visit 🔗](https://www.geeksforgeeks.org/interview-prep/oops-interview-questions/)         |Question & Answer |
+| Python OOP Interview Questions – GeeksforGeeks     | [Visit 🔗](https://www.geeksforgeeks.org/python/python-oops-interview-question/)           |Question & Answer |
+| OOP Interview Questions (2025) – DevInterview GitHub | [Visit 🔗](https://github.com/Devinterview-io/oop-interview-questions)                    |Question & Answer |
 
 ---
 
 ## 🏗️ System Design
 
-| **Resource Name**                                  | **Link**                                                                                   |
-|----------------------------------------------------|--------------------------------------------------------------------------------------------|
-| System Design and Application Architecture Bangla  **(★ ★ ★ ★ ★)**                    | [Visit 🔗](https://youtube.com/playlist?list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&si=RvIEOxZNgyTJbXfJ)                  |
-| System Design Roadmap                      | [Visit 🔗](https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes)                                |
-| Top 10 System Design Q&A – GeeksforGeeks           | [Visit 🔗](https://www.geeksforgeeks.org/system-design/top-10-system-design-interview-questions-and-answers/) |
-| System Design Interview Handbook – GitHub          | [Visit 🔗](https://github.com/checkcheckzz/system-design-interview)                        |
-| সিস্টেম ডিজাইন বাংলা – GitHub      **(★ ★ ★ ★ ★)**                  | [Visit 🔗](https://github.com/lahin31/system-design-bangla)                                |
-| The System Design Primer – GitHub Top  **(★ ★ ★ ★ ★)**                      | [Visit 🔗](https://github.com/donnemartin/system-design-primer)                                |
+| **Resource Name**                                  | **Link**                                                                                   |   **Type**           |
+|----------------------------------------------------|--------------------------------------------------------------------------------------------|-------------------------|
+| System Design and Application Architecture Bangla  **(★ ★ ★ ★ ★)**                    | [Visit 🔗](https://youtube.com/playlist?list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&si=RvIEOxZNgyTJbXfJ)                  | Theoretical |
+| System Design Roadmap                      | [Visit 🔗](https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes)|Problem List & Video |
+| Top 10 System Design Q&A – GeeksforGeeks           | [Visit 🔗](https://www.geeksforgeeks.org/system-design/top-10-system-design-interview-questions-and-answers/) |Question & Answer|
+| System Design Interview Handbook – GitHub          | [Visit 🔗](https://github.com/checkcheckzz/system-design-interview)                        |Theoretical |
+| সিস্টেম ডিজাইন বাংলা – GitHub      **(★ ★ ★ ★ ★)**                  | [Visit 🔗](https://github.com/lahin31/system-design-bangla)  |Theoretical |
+| The System Design Primer – GitHub Top  **(★ ★ ★ ★ ★)**                      | [Visit 🔗](https://github.com/donnemartin/system-design-primer) |Theoretical |
 
 
 ---
@@ -78,7 +78,7 @@ A curated list of high-quality resources for acing computer science interviews. 
 # 💻 Software Development Frameworks
 ## 🏗️ Python Django Framework
 
-| **Resource Name**                                  | **Link**                                                                                   |
+| **Resource Name**                                  | **Link**                                                                                   |  
 |----------------------------------------------------|--------------------------------------------------------------------------------------------|
 | Top 50 Django Interview Questions and Answers- GeeksforGeeks   **(★ ★ ★ ★ ★)**         | [Visit 🔗](https://www.geeksforgeeks.org/python/django-interview-questions/) |
 | Django Interview Question – GitHub   **(★ ★ ★ ★ ★)**         | [Visit 🔗](https://github.com/Devinterview-io/django-interview-questions)                        |
