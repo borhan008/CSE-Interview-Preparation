@@ -1,4 +1,4 @@
-# 📘 CSE Interview Preparation Resource List 
+# 📘 CSE Interview Preparation Resource List
 
 A curated list of high-quality resources for acing computer science interviews. Topics include Data Structures & Algorithms, Databases, Networking, OOP, System Design, and more.
 
@@ -10,82 +10,89 @@ A curated list of high-quality resources for acing computer science interviews. 
 
 ### 🔢 Data Structures and Algorithms (DSA)
 
-| **Resource Name**                                  | **Link**                                                                                   |
-|----------------------------------------------------|--------------------------------------------------------------------------------------------|
-| Top 100 DSA Interview Questions (Topic-wise)       | [Visit 🔗](https://www.geeksforgeeks.org/dsa/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/) |
-| Python Algorithms and Data Structures (GitHub)     | [Visit 🔗](https://github.com/david-legend/python-algorithms)                              |
-| Python Interview Questions – InterviewBit          | [Visit 🔗](https://www.interviewbit.com/python-interview-questions/)                       |
-| Python Interview Questions – W3Schools             | [Visit 🔗](https://www.w3schools.com/python/python_interview_questions.asp)                |
-| বাংলায় DSA রিসোর্সসমূহ            | [Visit 🔗](https://github.com/me-shaon/bangla-programming-resources)                |
-| TakeuForward (Best DSA Learning Playlist)          | [Visit 🔗](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)                |
-| NeetCodeIo (Important DSA Problem List)          | [Visit 🔗](https://neetcode.io/practice)                |
-
-
-
+| **Resource Name**                              | **Link**                                                                                                                |
+| ---------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| Top 100 DSA Interview Questions (Topic-wise)   | [Visit 🔗](https://www.geeksforgeeks.org/dsa/top-100-data-structure-and-algorithms-dsa-interview-questions-topic-wise/) |
+| Python Algorithms and Data Structures (GitHub) | [Visit 🔗](https://github.com/david-legend/python-algorithms)                                                           |
+| Python Interview Questions – InterviewBit      | [Visit 🔗](https://www.interviewbit.com/python-interview-questions/)                                                    |
+| Python Interview Questions – W3Schools         | [Visit 🔗](https://www.w3schools.com/python/python_interview_questions.asp)                                             |
+| বাংলায় DSA রিসোর্সসমূহ                         | [Visit 🔗](https://github.com/me-shaon/bangla-programming-resources)                                                    |
+| TakeuForward (Best DSA Learning Playlist)      | [Visit 🔗](https://takeuforward.org/strivers-a2z-dsa-course/strivers-a2z-dsa-course-sheet-2/)                           |
+| NeetCodeIo (Important DSA Problem List)        | [Visit 🔗](https://neetcode.io/practice)                                                                                |
 
 ---
 
 ## 🗃️ Database
 
-| **Resource Name**                                  | **Link**                                                                                   |
-|----------------------------------------------------|--------------------------------------------------------------------------------------------|
-| SQL Full Course In 10 Hours           | [Visit 🔗](https://youtube.com/playlist?list=PL9ooVrP1hQOG6DQnOD6ujdCEchaqADfCU&si=cvtispco6juD7mkg)               |
-| SQL Tutorial Hindi          | [Visit 🔗](https://youtube.com/playlist?list=PLdOKnrf8EcP17p05q13WXbHO5Z_JfXNpw&si=9pVhFHzQe-P23Gx3)               |
-| Database Questions – DevInterview GitHub           | [Visit 🔗](https://github.com/Devinterview-io/databases-interview-questions)               |
-| Top 60 DBMS Interview Questions – GeeksforGeeks    | [Visit 🔗](https://www.geeksforgeeks.org/dbms/commonly-asked-dbms-interview-questions/)    |
-| SQL Interview Questions – GeeksforGeeks            | [Visit 🔗](https://www.geeksforgeeks.org/sql/sql-interview-questions/)                     |
-| SQL Problem Solving          | [Visit 🔗](https://youtu.be/nYmoQ4r0DVw?si=YFlfqj1W4iRUR-ZG)               |
-
+| **Resource Name**                               | **Link**                                                                                             |
+| ----------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| SQL Full Course In 10 Hours                     | [Visit 🔗](https://youtube.com/playlist?list=PL9ooVrP1hQOG6DQnOD6ujdCEchaqADfCU&si=cvtispco6juD7mkg) |
+| SQL Tutorial Hindi                              | [Visit 🔗](https://youtube.com/playlist?list=PLdOKnrf8EcP17p05q13WXbHO5Z_JfXNpw&si=9pVhFHzQe-P23Gx3) |
+| Database Questions – DevInterview GitHub        | [Visit 🔗](https://github.com/Devinterview-io/databases-interview-questions)                         |
+| Top 60 DBMS Interview Questions – GeeksforGeeks | [Visit 🔗](https://www.geeksforgeeks.org/dbms/commonly-asked-dbms-interview-questions/)              |
+| SQL Interview Questions – GeeksforGeeks         | [Visit 🔗](https://www.geeksforgeeks.org/sql/sql-interview-questions/)                               |
+| SQL Problem Solving                             | [Visit 🔗](https://youtu.be/nYmoQ4r0DVw?si=YFlfqj1W4iRUR-ZG)                                         |
 
 ---
 
 ## 🌐 Networking
 
-| **Resource Name**                                  | **Link**                                                                                   |
-|----------------------------------------------------|--------------------------------------------------------------------------------------------|
-| 50+ Networking Interview Questions – GeeksforGeeks | [Visit 🔗](https://www.geeksforgeeks.org/blogs/networking-interview-questions/)            |
+| **Resource Name**                                  | **Link**                                                                                            |
+| -------------------------------------------------- | --------------------------------------------------------------------------------------------------- |
+| 50+ Networking Interview Questions – GeeksforGeeks | [Visit 🔗](https://www.geeksforgeeks.org/blogs/networking-interview-questions/)                     |
 | Networking Interview Q&A – Shiksha                 | [Visit 🔗](https://www.shiksha.com/online-courses/articles/networking-interview-questions-answers/) |
-| Networking Questions – InterviewBit                | [Visit 🔗](https://www.interviewbit.com/networking-interview-questions/)                   |
+| Networking Questions – InterviewBit                | [Visit 🔗](https://www.interviewbit.com/networking-interview-questions/)                            |
 
 ---
 
 ## 🧱 Object-Oriented Programming (OOP)
 
-| **Resource Name**                                  | **Link**                                                                                   |
-|----------------------------------------------------|--------------------------------------------------------------------------------------------|
-| Best OOP Playlist-Java       | [Visit 🔗](https://youtube.com/playlist?list=PLsyeobzWxl7oa1WO9n4cP3OY9nOtUcZIg&si=UKpUsG9U7EVRJuCN)         |
-| Python OOP Playlist       | [Visit 🔗](https://youtube.com/playlist?list=PLI4OVrCFuY56E57FdYzFNSWcEDS-ZKK26&si=W9k-MgMhj9Qkg0Xq)         |
-| 30 OOP Interview Questions – GeeksforGeeks         | [Visit 🔗](https://www.geeksforgeeks.org/interview-prep/oops-interview-questions/)         |
-| Python OOP Interview Questions – GeeksforGeeks     | [Visit 🔗](https://www.geeksforgeeks.org/python/python-oops-interview-question/)           |
-| OOP Interview Questions (2025) – DevInterview GitHub | [Visit 🔗](https://github.com/Devinterview-io/oop-interview-questions)                    |
+| **Resource Name**                                    | **Link**                                                                                             |
+| ---------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
+| Best OOP Playlist-Java                               | [Visit 🔗](https://youtube.com/playlist?list=PLsyeobzWxl7oa1WO9n4cP3OY9nOtUcZIg&si=UKpUsG9U7EVRJuCN) |
+| Python OOP Playlist                                  | [Visit 🔗](https://youtube.com/playlist?list=PLI4OVrCFuY56E57FdYzFNSWcEDS-ZKK26&si=W9k-MgMhj9Qkg0Xq) |
+| 30 OOP Interview Questions – GeeksforGeeks           | [Visit 🔗](https://www.geeksforgeeks.org/interview-prep/oops-interview-questions/)                   |
+| Python OOP Interview Questions – GeeksforGeeks       | [Visit 🔗](https://www.geeksforgeeks.org/python/python-oops-interview-question/)                     |
+| OOP Interview Questions (2025) – DevInterview GitHub | [Visit 🔗](https://github.com/Devinterview-io/oop-interview-questions)                               |
 
 ---
 
 ## 🏗️ System Design
 
-| **Resource Name**                                  | **Link**                                                                                   |
-|----------------------------------------------------|--------------------------------------------------------------------------------------------|
-| System Design and Application Architecture Bangla                    | [Visit 🔗](https://youtube.com/playlist?list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&si=RvIEOxZNgyTJbXfJ)                  |
-| System Design Roadmap                      | [Visit 🔗](https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes)                                |
-| Top 10 System Design Q&A – GeeksforGeeks           | [Visit 🔗](https://www.geeksforgeeks.org/system-design/top-10-system-design-interview-questions-and-answers/) |
-| System Design Interview Handbook – GitHub          | [Visit 🔗](https://github.com/checkcheckzz/system-design-interview)                        |
-| সিস্টেম ডিজাইন বাংলা – GitHub                      | [Visit 🔗](https://github.com/lahin31/system-design-bangla)                                |
-| The System Design Primer – GitHub Top                      | [Visit 🔗](https://github.com/donnemartin/system-design-primer)                                |
+| **Resource Name**                                 | **Link**                                                                                                      |
+| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| System Design and Application Architecture Bangla | [Visit 🔗](https://youtube.com/playlist?list=PL_XxuZqN0xVAiu5oODf-SmeXG2Y_RG2pz&si=RvIEOxZNgyTJbXfJ)          |
+| System Design Roadmap                             | [Visit 🔗](https://takeuforward.org/system-design/complete-system-design-roadmap-with-videos-for-sdes)        |
+| Top 10 System Design Q&A – GeeksforGeeks          | [Visit 🔗](https://www.geeksforgeeks.org/system-design/top-10-system-design-interview-questions-and-answers/) |
+| System Design Interview Handbook – GitHub         | [Visit 🔗](https://github.com/checkcheckzz/system-design-interview)                                           |
+| সিস্টেম ডিজাইন বাংলা – GitHub                     | [Visit 🔗](https://github.com/lahin31/system-design-bangla)                                                   |
+| The System Design Primer – GitHub Top             | [Visit 🔗](https://github.com/donnemartin/system-design-primer)                                               |
 
+---
+
+# 🚀 Programming Languages
+
+## 🟨 JavaScript
+
+| **Resource Name**                                        | **Link**                                                                     |
+| -------------------------------------------------------- | ---------------------------------------------------------------------------- |
+| JavaScript from Beginner to Professional - PDF           | [Download 🔗](/Book/JavaScript/javascript-from-beginner-to-professional.pdf) |
+| 1000 JavaScript Interview Questions and Answer – GitHub  | [Link 🔗](https://github.com/sudheerj/javascript-interview-questions)        |
+| JavaScript Interview Questions and Answer - PDF          | [Download 🔗](/Book/JavaScript/jaavascript-interview-1.pdf)                  |
+| JavaScript Interview Questions and Answer – InterviewBit | [Link 🔗](https://www.interviewbit.com/javascript-interview-questions/)      |
 
 ---
 
 # 💻 Software Development Frameworks
+
 ## 🏗️ Python Django Framework
 
-| **Resource Name**                                  | **Link**                                                                                   |
-|----------------------------------------------------|--------------------------------------------------------------------------------------------|
-| Top 50 Django Interview Questions and Answers- GeeksforGeeks          | [Visit 🔗](https://www.geeksforgeeks.org/python/django-interview-questions/) |
-| Django Interview Question – GitHub          | [Visit 🔗](https://github.com/Devinterview-io/django-interview-questions)                        |
-| Django Interview Question – MindMajix                      | [Visit 🔗](https://mindmajix.com/django-interview-questions)  |
-| Django Advance for Project Learning - GitHub                   | [Visit 🔗](https://github.com/wsvincent/awesome-django?tab=readme-ov-file#apis)  |
-
-
+| **Resource Name**                                            | **Link**                                                                        |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------------- |
+| Top 50 Django Interview Questions and Answers- GeeksforGeeks | [Visit 🔗](https://www.geeksforgeeks.org/python/django-interview-questions/)    |
+| Django Interview Question – GitHub                           | [Visit 🔗](https://github.com/Devinterview-io/django-interview-questions)       |
+| Django Interview Question – MindMajix                        | [Visit 🔗](https://mindmajix.com/django-interview-questions)                    |
+| Django Advance for Project Learning - GitHub                 | [Visit 🔗](https://github.com/wsvincent/awesome-django?tab=readme-ov-file#apis) |
 
 ---
 
@@ -93,16 +100,14 @@ A curated list of high-quality resources for acing computer science interviews. 
 
 ## 🏗️ CSE Important Books
 
-| **Resource Name**                                  | **Link**                                                                                   |
-|----------------------------------------------------|--------------------------------------------------------------------------------------------|
-| Django For Beginners           | [Download 🔗](https://github.com/RlM100always/CSE-Interview-Preparation/blob/main/Book/Django-for-beginners.pdf) |
-| AI Prompt Engineering           | [Download 🔗](https://github.com/RlM100always/CSE-Interview-Preparation/blob/main/Book/AI_PRIMPT_ENGINEERING.pdf) |
-| SQL Cheet Sheet          | [Download 🔗](https://github.com/RlM100always/CSE-Interview-Preparation/blob/main/Book/Complete%20SQL%20Tutorial%20In%20Hindi%20By%20Rishabh%20Mishra%20(Basic%20to%20Advance).pdf) |
-| Git Question and Answer           | [Download 🔗](https://github.com/RlM100always/CSE-Interview-Preparation/blob/main/Book/Git%20Q%26A.pdf) |
-| Python Question answer Book          | [Download 🔗](https://github.com/RlM100always/CSE-Interview-Preparation/blob/main/Book/Pythonquestion.pdf) |
-
+| **Resource Name**           | **Link**                                                                                                                                                                              |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Django For Beginners        | [Download 🔗](https://github.com/RlM100always/CSE-Interview-Preparation/blob/main/Book/Django-for-beginners.pdf)                                                                      |
+| AI Prompt Engineering       | [Download 🔗](https://github.com/RlM100always/CSE-Interview-Preparation/blob/main/Book/AI_PRIMPT_ENGINEERING.pdf)                                                                     |
+| SQL Cheet Sheet             | [Download 🔗](<https://github.com/RlM100always/CSE-Interview-Preparation/blob/main/Book/Complete%20SQL%20Tutorial%20In%20Hindi%20By%20Rishabh%20Mishra%20(Basic%20to%20Advance).pdf>) |
+| Git Question and Answer     | [Download 🔗](https://github.com/RlM100always/CSE-Interview-Preparation/blob/main/Book/Git%20Q%26A.pdf)                                                                               |
+| Python Question answer Book | [Download 🔗](https://github.com/RlM100always/CSE-Interview-Preparation/blob/main/Book/Pythonquestion.pdf)                                                                            |
 
 ---
 
 _Contributions welcome! Feel free to submit a PR to expand the list._
-
