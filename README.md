@@ -27,14 +27,14 @@ A curated list of high-quality resources for acing computer science interviews. 
 
 ## 🗃️ Database
 
-| **Resource Name**                                  | **Link**                                                                                   |
-|----------------------------------------------------|--------------------------------------------------------------------------------------------|
-| SQL Full Course In 10 Hours       **(★ ★ ★ ★ ★)**      | [Visit 🔗](https://youtube.com/playlist?list=PL9ooVrP1hQOG6DQnOD6ujdCEchaqADfCU&si=cvtispco6juD7mkg)               |
-| SQL Tutorial Hindi          | [Visit 🔗](https://youtube.com/playlist?list=PLdOKnrf8EcP17p05q13WXbHO5Z_JfXNpw&si=9pVhFHzQe-P23Gx3)               |
-| Database Questions – DevInterview GitHub           | [Visit 🔗](https://github.com/Devinterview-io/databases-interview-questions)               |
-| Top 60 DBMS Interview Questions – GeeksforGeeks  **(★ ★ ★ ★ ★)**     | [Visit 🔗](https://www.geeksforgeeks.org/dbms/commonly-asked-dbms-interview-questions/)    |
-| SQL Interview Questions – GeeksforGeeks            | [Visit 🔗](https://www.geeksforgeeks.org/sql/sql-interview-questions/)                     |
-| SQL Problem Solving       **(★ ★ ★ ★ ★)**     | [Visit 🔗](https://youtu.be/nYmoQ4r0DVw?si=YFlfqj1W4iRUR-ZG)               |
+| **Resource Name**                                  | **Link**                                                                                   |     **Type**           |
+|----------------------------------------------------|--------------------------------------------------------------------------------------------|-------------------------|
+| SQL Full Course In 10 Hours       **(★ ★ ★ ★ ★)**      | [Visit 🔗](https://youtube.com/playlist?list=PL9ooVrP1hQOG6DQnOD6ujdCEchaqADfCU&si=cvtispco6juD7mkg) |Video Lecture |
+| SQL Tutorial Hindi          | [Visit 🔗](https://youtube.com/playlist?list=PLdOKnrf8EcP17p05q13WXbHO5Z_JfXNpw&si=9pVhFHzQe-P23Gx3)               | Video Lecture |
+| Database Questions – DevInterview GitHub           | [Visit 🔗](https://github.com/Devinterview-io/databases-interview-questions)               |Question & Answer |
+| Top 60 DBMS Interview Questions – GeeksforGeeks  **(★ ★ ★ ★ ★)**     | [Visit 🔗](https://www.geeksforgeeks.org/dbms/commonly-asked-dbms-interview-questions/)    |Question & Answer|
+| SQL Interview Questions – GeeksforGeeks            | [Visit 🔗](https://www.geeksforgeeks.org/sql/sql-interview-questions/)                     |Question & Answer|
+| SQL Problem Solving       **(★ ★ ★ ★ ★)**     | [Visit 🔗](https://youtu.be/nYmoQ4r0DVw?si=YFlfqj1W4iRUR-ZG)               | Problem List |
 
 
 ---
